@@ -22,7 +22,7 @@ The project uses the `dataset-2.csv` file containing 100,000 records with 28 fea
 PaisaBazaar Project Credit Score Classification/
 ├── README.md
 ├── requirements.txt
-├── Sample_ML_Submission_Template.ipynb
+├── Notebook.ipynb
 ├── dataset-2.csv
 ├── best_xgb_model.pkl
 └── Paisabazaar.pptx
