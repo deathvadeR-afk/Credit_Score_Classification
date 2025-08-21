@@ -131,10 +131,3 @@ The model provides:
 - Integration with banking systems
 - Advanced feature engineering techniques
 
-## Contributing
-
-This project was developed as part of a Codecademy machine learning course. For questions or improvements, please refer to the project guidelines.
-
-## License
-
-This project is for educational purposes as part of the Codecademy curriculum.
